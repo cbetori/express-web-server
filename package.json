@@ -1,0 +1,20 @@
+{
+  "name": "express-web-server",
+  "version": "1.0.0",
+  "description": "Let's build a web server using the express framework.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbetori/express-web-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbetori/express-web-server/issues"
+  },
+  "homepage": "https://github.com/cbetori/express-web-server#readme"
+}
